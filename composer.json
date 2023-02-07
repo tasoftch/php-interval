@@ -13,10 +13,10 @@
     }
   },
   "require" : {
-    "php": "^7.2",
+    "php": "^7|^8",
     "tasoft/value-injector": "^1.0"
   },
   "require-dev": {
-    "phpunit/phpunit": "^6"
+    "phpunit/phpunit": "^6|^9"
   }
 }
